@@ -4,6 +4,9 @@
 
 This analysis delves into gun-related incidents in the United States over the past decade, exploring trends and patterns in firearm use. With the highest gun ownership globally, firearms are a part of American culture, serving purposes like self-defense and recreation. However, this study seeks to uncover insights into the prevalence and impact of gun violence, offering data-driven perspectives on this critical issue.
 
+![D Image](https://github.com/user-attachments/assets/67ddebbd-4885-452e-b216-c30d2cbabda7)
+
+
 ### Data Source
 
 The dataset used for this analysis was sourced from Kaggle, a widely recognized platform for sharing and accessing high-quality datasets.
